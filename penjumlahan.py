@@ -1,4 +1,4 @@
-bilangan1 = float(input("Masukkan bilangan pertama: "))
-bilangan2 = float(input("Masukkan bilangan kedua: "))
+bilangan1 = int(input("Masukkan bilangan pertama: "))
+bilangan2 = int(input("Masukkan bilangan kedua: "))
 hasil = bilangan1 + bilangan2
-print(f"Hasil penjumlahan {bilangan1} + {bilangan2} = {hasil}")
+print("Hasil penjumlahan dari", bilangan1, "dan", bilangan2, "adalah", hasil)
