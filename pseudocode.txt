@@ -1,0 +1,21 @@
+>Pseudocode menentukan ganjil atau genap:
+  Mulai
+      Input angka
+      Jika (angka % 2 == 0) 
+          Cetak "Angka adalah Genap"
+        Jika tidak
+          Cetak "Angka adalah Ganjil"
+  Selesai
+>Pseudocode mengetahui luas lingkaran:
+  Mulai
+      Input jari-jari (r)
+      Konstanta π = 3.14
+      Hitung luas = π * r^2
+          Cetak luas
+  Selesai
+> Pseudocode penjumlahan
+  Mulai
+      Input bilangan pertama
+      Input bilangan kedua
+      Hasil = bilangan pertama + bilangan kedua
+          Cetak Hasil
